@@ -221,7 +221,7 @@ a:focus {
 */
 
 .u-max-width-sm {
-    max-width: 36em;
+    max-width: 45em 60em 75em none;
 }
 
 /*

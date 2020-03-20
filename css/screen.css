@@ -182,6 +182,7 @@ a:focus {
     padding: 24px 24px 0;
     background-color: orange;
     color: white;
+    
 }
 
 @media (min-width: 768px) {
@@ -221,8 +222,28 @@ a:focus {
 */
 
 .u-max-width-sm {
-    max-width: 45em 60em 75em none;
+    max-width: 36em;
 }
+
+.u-max-width-md {
+
+    max-width: 45em;
+}
+
+.u-max-width-lg {
+    max-width: 60em;
+
+}
+
+.u-max-width-xl {
+    max-width: 75em;
+
+}
+
+.u-max-width-none {
+    none
+}
+
 
 /*
     Utility: Utility name

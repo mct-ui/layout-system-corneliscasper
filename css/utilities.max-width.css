@@ -8,10 +8,21 @@
     max-width: 36em !important;
 }
 
-.u-max-width-md {}
+.u-max-width-md {
 
-.u-max-width-lg {}
+    max-width: 45em;
+}
 
-.u-max-width-xl {}
+.u-max-width-lg {
+    max-width: 60em;
 
-.u-max-width-none {}
+}
+
+.u-max-width-xl {
+    max-width: 75em;
+
+}
+
+.u-max-width-none {
+    none
+}
